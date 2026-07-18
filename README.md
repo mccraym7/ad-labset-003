@@ -1,4 +1,5 @@
 # Lab 3: Splunk SIEM & Log Analysis
+Watch Me Make It!https://www.loom.com/share/23378d768d014033abc8504b115d7897
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
